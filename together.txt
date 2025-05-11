@@ -1,0 +1,13 @@
+this is a collaboratio text 
+
+My Capstone project involves visualizing the Global infrastructure investments in Tableau.
+Infrastructure is a multitrillion dollar market (according to Mc Kinsey) and it provides a cornerstone for socio-economic progress. As of  2016, investment amount to $2.5 trillion. To support global growth USD 3,7 trillion annually  is expected between 2013 and 2030. 
+Goal: visualize infrastructure investment gaps, understand drivers of infrastructure investment, benchmarking countries against peers. 
+I want to create a dashboard to visualize the investment amounts in each area (with latest available datasets). Dashboard should include: 
+•	Different countries or divide into continents: America, Europe, Africa, Asia, Middle Eastern 
+•	Year 
+•	GDP  (% / $), GDP growth rate
+•	Investment amount in infrastructure relative to GDP 
+•	Private investment in infrastructure
+•	Public- Private Partnership 
+•	Global Contributions data – Development finance
